@@ -8,4 +8,4 @@
 * [Papers and articles](https://github.com/YihaoSu/MakingYourAstronomyResearchCodeCitable/wiki/Papers-and-articles)
 
 ## Talks
-* Yi-Hao Su@IANCU Journal Club 2017-06-01 ([slide](https://github.com/YihaoSu/MakingYourAstronomyResearchCodeCitable/blob/master/IANCUJC_20170601_slide.md)) ([abstract](https://github.com/YihaoSu/MakingYourAstronomyResearchCodeCitable/blob/master/IANCUJC_20170601_abstract.md))
+* Yi-Hao Su@IANCU Journal Club 2017-06-01 ([slide](https://github.com/YihaoSu/MakingYourAstronomyResearchCodeCitable/blob/master/IANCUJC_20170601_slide.md)) ([abstract](https://github.com/YihaoSu/MakingYourAstronomyResearchCodeCitable/blob/master/IANCUJC_20170601_abstract.md)) ([HackMD slide mode](https://hackmd.io/p/H1DGbZD-W))
